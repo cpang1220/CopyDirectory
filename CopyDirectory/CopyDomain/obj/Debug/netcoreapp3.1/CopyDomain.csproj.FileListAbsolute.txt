@@ -1,0 +1,9 @@
+D:\ds_test_git\test\CopyDirectory\CopyDomain\bin\Debug\netcoreapp3.1\CopyDomain.deps.json
+D:\ds_test_git\test\CopyDirectory\CopyDomain\bin\Debug\netcoreapp3.1\CopyDomain.dll
+D:\ds_test_git\test\CopyDirectory\CopyDomain\bin\Debug\netcoreapp3.1\CopyDomain.pdb
+D:\ds_test_git\test\CopyDirectory\CopyDomain\obj\Debug\netcoreapp3.1\CopyDomain.csprojAssemblyReference.cache
+D:\ds_test_git\test\CopyDirectory\CopyDomain\obj\Debug\netcoreapp3.1\CopyDomain.AssemblyInfoInputs.cache
+D:\ds_test_git\test\CopyDirectory\CopyDomain\obj\Debug\netcoreapp3.1\CopyDomain.AssemblyInfo.cs
+D:\ds_test_git\test\CopyDirectory\CopyDomain\obj\Debug\netcoreapp3.1\CopyDomain.csproj.CoreCompileInputs.cache
+D:\ds_test_git\test\CopyDirectory\CopyDomain\obj\Debug\netcoreapp3.1\CopyDomain.dll
+D:\ds_test_git\test\CopyDirectory\CopyDomain\obj\Debug\netcoreapp3.1\CopyDomain.pdb

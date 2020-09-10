@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CopyDirectory/1.0.0": {
+        "dependencies": {
+          "CopyDomain": "1.0.0",
+          "CopyLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CopyDirectory.dll": {}
+        }
+      },
+      "CopyDomain/1.0.0": {
+        "runtime": {
+          "CopyDomain.dll": {}
+        }
+      },
+      "CopyLibrary/1.0.0": {
+        "dependencies": {
+          "CopyDomain": "1.0.0"
+        },
+        "runtime": {
+          "CopyLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CopyDirectory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CopyDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CopyLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

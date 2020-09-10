@@ -1,0 +1,12 @@
+D:\ds_test_git\test\CopyDirectory\CopyLibrary\bin\Debug\netcoreapp3.1\CopyLibrary.deps.json
+D:\ds_test_git\test\CopyDirectory\CopyLibrary\bin\Debug\netcoreapp3.1\CopyLibrary.dll
+D:\ds_test_git\test\CopyDirectory\CopyLibrary\bin\Debug\netcoreapp3.1\CopyLibrary.pdb
+D:\ds_test_git\test\CopyDirectory\CopyLibrary\bin\Debug\netcoreapp3.1\CopyDomain.dll
+D:\ds_test_git\test\CopyDirectory\CopyLibrary\bin\Debug\netcoreapp3.1\CopyDomain.pdb
+D:\ds_test_git\test\CopyDirectory\CopyLibrary\obj\Debug\netcoreapp3.1\CopyLibrary.csprojAssemblyReference.cache
+D:\ds_test_git\test\CopyDirectory\CopyLibrary\obj\Debug\netcoreapp3.1\CopyLibrary.AssemblyInfoInputs.cache
+D:\ds_test_git\test\CopyDirectory\CopyLibrary\obj\Debug\netcoreapp3.1\CopyLibrary.AssemblyInfo.cs
+D:\ds_test_git\test\CopyDirectory\CopyLibrary\obj\Debug\netcoreapp3.1\CopyLibrary.csproj.CoreCompileInputs.cache
+D:\ds_test_git\test\CopyDirectory\CopyLibrary\obj\Debug\netcoreapp3.1\CopyLibrary.csproj.CopyComplete
+D:\ds_test_git\test\CopyDirectory\CopyLibrary\obj\Debug\netcoreapp3.1\CopyLibrary.dll
+D:\ds_test_git\test\CopyDirectory\CopyLibrary\obj\Debug\netcoreapp3.1\CopyLibrary.pdb

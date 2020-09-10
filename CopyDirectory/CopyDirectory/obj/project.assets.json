@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CopyDomain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CopyDomain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CopyDomain.dll": {}
+        }
+      },
+      "CopyLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CopyDomain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CopyLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CopyLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CopyDomain/1.0.0": {
+      "type": "project",
+      "path": "../CopyDomain/CopyDomain.csproj",
+      "msbuildProject": "../CopyDomain/CopyDomain.csproj"
+    },
+    "CopyLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CopyLibrary/CopyLibrary.csproj",
+      "msbuildProject": "../CopyLibrary/CopyLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CopyDomain >= 1.0.0",
+      "CopyLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LOUISP\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ds_test_git\\test\\CopyDirectory\\CopyDirectory\\CopyDirectory.csproj",
+      "projectName": "CopyDirectory",
+      "projectPath": "D:\\ds_test_git\\test\\CopyDirectory\\CopyDirectory\\CopyDirectory.csproj",
+      "packagesPath": "C:\\Users\\LOUISP\\.nuget\\packages\\",
+      "outputPath": "D:\\ds_test_git\\test\\CopyDirectory\\CopyDirectory\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\LOUISP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\ds_test_git\\test\\CopyDirectory\\CopyDomain\\CopyDomain.csproj": {
+              "projectPath": "D:\\ds_test_git\\test\\CopyDirectory\\CopyDomain\\CopyDomain.csproj"
+            },
+            "D:\\ds_test_git\\test\\CopyDirectory\\CopyLibrary\\CopyLibrary.csproj": {
+              "projectPath": "D:\\ds_test_git\\test\\CopyDirectory\\CopyLibrary\\CopyLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
